@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib
+END
+log4j-wjw.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/log4j-wjw.jar
+END
+simple-xml-2.3.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/simple-xml-2.3.3.jar
+END
+servlet-api-2.5-20081211.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/servlet-api-2.5-20081211.jar
+END
+slf4j-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/slf4j-api.jar
+END
+netty-3.2.1.Final.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/netty-3.2.1.Final.jar
+END
+BerkeleyDB-je-5.0.73.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/BerkeleyDB-je-5.0.73.jar
+END
+slf4j-log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/slf4j-log4j.jar
+END
+wrapper.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/project/!svn/ver/5338/new-zhutong/sqs4j/trunk/lib/wrapper.jar
+END

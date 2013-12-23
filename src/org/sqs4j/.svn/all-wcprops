@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/project/!svn/ver/5337/new-zhutong/sqs4j/trunk/src/org/sqs4j
+END
+HttpServerPipelineFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/project/!svn/ver/5337/new-zhutong/sqs4j/trunk/src/org/sqs4j/HttpServerPipelineFactory.java
+END
+Sqs4jApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/project/!svn/ver/5337/new-zhutong/sqs4j/trunk/src/org/sqs4j/Sqs4jApp.java
+END
+HttpRequestHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/project/!svn/ver/5337/new-zhutong/sqs4j/trunk/src/org/sqs4j/HttpRequestHandler.java
+END
+WrapperSqs4JApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/project/!svn/ver/5337/new-zhutong/sqs4j/trunk/src/org/sqs4j/WrapperSqs4JApp.java
+END
+Sqs4jConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/project/!svn/ver/5337/new-zhutong/sqs4j/trunk/src/org/sqs4j/Sqs4jConf.java
+END
